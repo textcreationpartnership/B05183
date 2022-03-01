@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for burying in Scots linen, June 14, 1686.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05183</idno>
+            <idno type="STC">Wing S1088</idno>
+            <idno type="STC">ESTC R183891</idno>
+            <idno type="EEBO-CITATION">52614923</idno>
+            <idno type="OCLC">ocm 52614923</idno>
+            <idno type="VID">176088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176088)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for burying in Scots linen, June 14, 1686.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh], :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication conjectured from colophon and internal evidence.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burial laws --  Scotland --  Early works to 1800.</term>
+               <term>Linen industry --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176088:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">7</hi> R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ACT</hi> For Burying in <hi>Scots</hi> Linen, <hi>June</hi> 14. 1686.</head>
+            <p>OUR SOVERAIGN LORD, For the Encouragement of Linen-Manufa<g ref="char:EOLhyphen"/>ctures in this Kingdom, and prevention of the Exportation of the Moneys there<g ref="char:EOLhyphen"/>of, by Importing of Linen, Doth, with Advice and Conſent of His Eſtates of Parliament, Statute and Ordain, That hereafter no Corps of any perſon what<g ref="char:EOLhyphen"/>ſoever, ſhall be Buried in any Shirt, Sheet, or any thing elſe, except in plain Linen, or Cloth of Hards, made and Spun within the Kingdom, without Lace or Point; Diſcharg<g ref="char:EOLhyphen"/>ing from henceforth the making uſe of Holland, or other Linen. Cloth made in other King<g ref="char:EOLhyphen"/>doms, all Silk, Hair, or Woolen, Gold or Silver, or any other Stuff whatſoever, than what is made of Flax or Hards, Spun and wrought within the Kingdom, as ſaid is, and that under the pain and penalty of 300 pounds Scots, <hi>toties quoties,</hi> for a Noble-man, and 200 pounds for each other perſon, whereof the one half to the Diſcoverer, and the other half to the Poor of the Pariſh, where the ſaids Corps ſhall be ſo Interred: And for the better Diſcovering of the Contraveeners, It is hereby further Statute and Ordained, That every Miniſter within the Kingdom, ſhall keep a Book, containing an exact Account and Regiſter of all Perſons, buried within their ſaid Pariſh; As alſo, that ſome one or more of the Relations of the perſon Deceaſed, or other credible perſon (Tennents in the Coun<g ref="char:EOLhyphen"/>trey and Cottars being always excepted) ſhall within eight days after ſuch Interment, bring a Certificat upon Oath in Writing, Witneſſed by two famous perſons to the Mini<g ref="char:EOLhyphen"/>ſter, Declaring, that the ſaid peaſon was Woond or Wrapt in manner herein-preſcribed; Which Certificats are to be Recorded by the Miniſter or Reader of the Pariſh <hi>gratis,</hi> with<g ref="char:EOLhyphen"/>out exacting any Money therefore. And if no Relation of the party buried, or other perſon ſhall bring ſuch ſuch a Certificat, within the ſaid time of eight days, that then and in that caſe, the Goods and Gear of the party Deceaſt, ſhall be, and are hereby Declar<g ref="char:EOLhyphen"/>ed, to be lyable to the foreſaid Forefaulture, to be purſued at the Inſtance of the Mini<g ref="char:EOLhyphen"/>ſter of the ſaid Pariſh, before any Judge competent; and in caſe the parties prove litigi<g ref="char:EOLhyphen"/>ous by Advocating, or Suſpending the ſaid Sentence; The ſaids Judges are hereby Au<g ref="char:EOLhyphen"/>thorized and Impowered to modifie Expenſes, as they ſhall find cauſe: And if ſuch perſons died <hi>in familia,</hi> the Father and Mother, or other Relations, in whoſe Family they die, are hereby Declared lyable for the ſaid Fine: And it is hereby Statute and Ordained, that if the Miniſter in whoſe Pariſh any ſuch Corps ſhall be ſo Interred, prove negligent in purſuing the Contraveeners within ſix Moneths after the ſaid Burial, he is hereby De<g ref="char:EOLhyphen"/>clared lyable for the ſaid Fine, the one half to the Poor, and the other half to the Diſ<g ref="char:EOLhyphen"/>coverer, to be divided in manner foreſaid. As alſo, His <hi>Majeſty,</hi> with Advice foreſaid, Statutes and Ordains, That no Wooden Coffin ſhall exceed an hundred merks Scots, as the higheſt rate for perſons of the greateſt quality, and ſo proportionally for others of meaner quality, under the pain of two hundred merks Scots for the Contravention.</p>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
